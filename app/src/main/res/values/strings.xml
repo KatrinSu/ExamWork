@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExamWork</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="roll">Roll</string>
+    <string name="developers">Developers:</string>
+    <string name="dice_roll">Dice roll</string>
+    <string name="about">About</string>
+    <string name="more_about_us">More about us</string>
+    <string name="choose_meal">Choose meal</string>
+    <string name="choose">Choose</string>
+    <string name="pone_number">Pone number:</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="more_restaurants">More restaurants</string>
+    <string name="phone_number_menu">Phone number</string>
+</resources>
